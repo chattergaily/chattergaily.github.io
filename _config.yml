@@ -1,7 +1,7 @@
 # Setup
-name:         Project or Site name (Architect Theme)
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+name:         Chatter Gaily (Code Blog)
+tagline:      Chatter Gaily on GitHub Pages
+baseurl:      "https://chattergaily.github.io"
 locale:       "en"
 
 # Gems
